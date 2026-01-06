@@ -8,8 +8,6 @@ python
 Abra o arquivo main.py e comece a configurar!
 Utilize as teclas do seu teclado (1-7) para configurar!
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
 ## en-us
 **Dependencies:**
 Python
